@@ -1,4 +1,8 @@
-This is for freecodecamp. The user story is below:
+Creating a mock product landing page for a fake company that happens to be named after myself.
+
+This is for freecodecamp's Responsive Web Development Certificate. 
+
+The user story is below:
 
 User Story #1: My product landing page should have a header element with a corresponding id="header".
 User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.

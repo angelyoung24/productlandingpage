@@ -1,3 +1,5 @@
+This is for freecodecamp. The user story is below:
+
 User Story #1: My product landing page should have a header element with a corresponding id="header".
 User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
 User Story #3: Within the #header element I can see a nav element with a corresponding id="nav-bar".
